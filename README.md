@@ -16,6 +16,7 @@ python main.py
 ## Example
 
 Before:
+
 test/
 photo.jpg
 song.mp3
@@ -23,6 +24,7 @@ file.pdf
 video.mp4
 
 After:
+
 test/
 Images/photo.jpg
 Music/song.mp3
